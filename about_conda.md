@@ -42,10 +42,10 @@
     quit()
 
 ## 
-
-R
-
-install.packages("spThin", dependencies = TRUE)
-
-install.packages(c("dismo", "sf", "ENMeval", "wallace", "Matrix", "htmlwidgets",
-"ade4", "ecospat", "leaflet", "tools", "fs", "dplyr", "humboldt", "stats", "ggplot2")) 
+```
+    R
+    
+    install.packages("spThin", dependencies = TRUE)
+    
+    install.packages(c("dismo", "sf", "ENMeval", "wallace", "Matrix", "htmlwidgets",
+    "ade4", "ecospat", "leaflet", "tools", "fs", "dplyr", "humboldt", "stats", "ggplot2")) 
